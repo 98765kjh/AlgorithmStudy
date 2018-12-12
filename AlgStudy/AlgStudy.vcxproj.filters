@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\ACMICPC">
+      <UniqueIdentifier>{0ca15465-626b-4a24-8852-8b12cf9b7773}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="tmp.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="저장용.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_1094.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_1215_x.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_1235.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_1254_ooo.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_1350.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_1547.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_1581.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_1629.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_1722.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_1953.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_2132_o.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_2146_x.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_2161.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_2178.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_2207.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_2243.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_2467.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_2479.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_2484.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_2513.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_2527.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_2573.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_2580_xxx.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_2602_O.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_2637_x.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_2653.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_2673.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_2797_x.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_2832_x.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_2839.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_2841.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_2871.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_2872.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_2999.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_3077.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_3295.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_3650_x.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_5624_x.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_6378.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_7481.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_7569_x.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_7770.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_7868.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_8322.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_8595.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_9009.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_9029.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_9421.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_9465.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_9517.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_9935.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_10165_1_x.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_10709.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_10711_x.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_10718.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_10815.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_10834.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_10835_x.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_11365.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_11399.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_11404.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_11565.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_11718_11719.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_11720.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_11721.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_12758.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_12851_x.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_1040_x.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
