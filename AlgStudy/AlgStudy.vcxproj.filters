@@ -228,5 +228,29 @@
     <ClCompile Include="Acmicpc_1040_x.cpp">
       <Filter>소스 파일\ACMICPC</Filter>
     </ClCompile>
+    <ClCompile Include="Acmicpc_15552.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_2448.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_10039.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_2675.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_1316.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_2908.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_5622.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_2941.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
