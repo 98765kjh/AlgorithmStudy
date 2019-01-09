@@ -14,15 +14,12 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
     <Filter Include="소스 파일\ACMICPC">
-      <UniqueIdentifier>{0ca15465-626b-4a24-8852-8b12cf9b7773}</UniqueIdentifier>
+      <UniqueIdentifier>{91dad564-9f5b-468b-bd3a-3f14928a0845}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="tmp.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="저장용.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="Acmicpc_1040_x.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
     </ClCompile>
     <ClCompile Include="Acmicpc_1094.cpp">
       <Filter>소스 파일\ACMICPC</Filter>
@@ -34,6 +31,9 @@
       <Filter>소스 파일\ACMICPC</Filter>
     </ClCompile>
     <ClCompile Include="Acmicpc_1254_ooo.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_1316.cpp">
       <Filter>소스 파일\ACMICPC</Filter>
     </ClCompile>
     <ClCompile Include="Acmicpc_1350.cpp">
@@ -72,6 +72,9 @@
     <ClCompile Include="Acmicpc_2243.cpp">
       <Filter>소스 파일\ACMICPC</Filter>
     </ClCompile>
+    <ClCompile Include="Acmicpc_2448.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
     <ClCompile Include="Acmicpc_2467.cpp">
       <Filter>소스 파일\ACMICPC</Filter>
     </ClCompile>
@@ -105,6 +108,12 @@
     <ClCompile Include="Acmicpc_2673.cpp">
       <Filter>소스 파일\ACMICPC</Filter>
     </ClCompile>
+    <ClCompile Include="Acmicpc_2675.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_2751.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
     <ClCompile Include="Acmicpc_2797_x.cpp">
       <Filter>소스 파일\ACMICPC</Filter>
     </ClCompile>
@@ -123,6 +132,12 @@
     <ClCompile Include="Acmicpc_2872.cpp">
       <Filter>소스 파일\ACMICPC</Filter>
     </ClCompile>
+    <ClCompile Include="Acmicpc_2908.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_2941.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
     <ClCompile Include="Acmicpc_2999.cpp">
       <Filter>소스 파일\ACMICPC</Filter>
     </ClCompile>
@@ -133,6 +148,9 @@
       <Filter>소스 파일\ACMICPC</Filter>
     </ClCompile>
     <ClCompile Include="Acmicpc_3650_x.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_5622.cpp">
       <Filter>소스 파일\ACMICPC</Filter>
     </ClCompile>
     <ClCompile Include="Acmicpc_5624_x.cpp">
@@ -175,6 +193,9 @@
       <Filter>소스 파일\ACMICPC</Filter>
     </ClCompile>
     <ClCompile Include="Acmicpc_9935.cpp">
+      <Filter>소스 파일\ACMICPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_10039.cpp">
       <Filter>소스 파일\ACMICPC</Filter>
     </ClCompile>
     <ClCompile Include="Acmicpc_10165_1_x.cpp">
@@ -225,32 +246,23 @@
     <ClCompile Include="Acmicpc_12851_x.cpp">
       <Filter>소스 파일\ACMICPC</Filter>
     </ClCompile>
-    <ClCompile Include="Acmicpc_1040_x.cpp">
-      <Filter>소스 파일\ACMICPC</Filter>
-    </ClCompile>
     <ClCompile Include="Acmicpc_15552.cpp">
       <Filter>소스 파일\ACMICPC</Filter>
     </ClCompile>
-    <ClCompile Include="Acmicpc_2448.cpp">
+    <ClCompile Include="tmp.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="저장용.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Acmicpc_10989.cpp">
       <Filter>소스 파일\ACMICPC</Filter>
     </ClCompile>
-    <ClCompile Include="Acmicpc_10039.cpp">
+    <ClCompile Include="Acmicpc_2108.cpp">
       <Filter>소스 파일\ACMICPC</Filter>
     </ClCompile>
-    <ClCompile Include="Acmicpc_2675.cpp">
-      <Filter>소스 파일\ACMICPC</Filter>
-    </ClCompile>
-    <ClCompile Include="Acmicpc_1316.cpp">
-      <Filter>소스 파일\ACMICPC</Filter>
-    </ClCompile>
-    <ClCompile Include="Acmicpc_2908.cpp">
-      <Filter>소스 파일\ACMICPC</Filter>
-    </ClCompile>
-    <ClCompile Include="Acmicpc_5622.cpp">
-      <Filter>소스 파일\ACMICPC</Filter>
-    </ClCompile>
-    <ClCompile Include="Acmicpc_2941.cpp">
-      <Filter>소스 파일\ACMICPC</Filter>
+    <ClCompile Include="Acmicpc_1427.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
